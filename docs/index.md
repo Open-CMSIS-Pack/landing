@@ -2,7 +2,6 @@
 
 # Simplifying IoT Workflows and Lifecycle Management
 
-
 ## Overview
 
 The Open-CMSIS-Pack project provides tools, methods, and infrastructure to integrate and manage software components and
@@ -16,9 +15,10 @@ distribution, integration, management, and maintenance.
 
 ## What are CMSIS-Packs?
 
-CMSIS-Pack is a packaging technology that supports more than
-[11,000 microcontrollers](https://www.keil.arm.com/devices/). Packs provide a delivery mechanism for software
-components, device parameters, and evaluation board support. A software pack (file collection) includes:
+[CMSIS-Pack](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html) is a packaging technology
+that supports more than [11,000 microcontrollers](https://www.keil.arm.com/devices/). Packs provide a delivery
+mechanism for software components, device parameters, and evaluation board support. A software pack (file collection)
+includes:
 
 - Source code, header files, and software libraries
 - Documentation and source code templates
@@ -50,3 +50,7 @@ with software pack creation, maintenance, and distribution utilizing the CMSIS-P
 If you want to get involved,
 [join our Technical Project Meetings - Tuesdays 16:00 - 17:00 CET](https://linaro-org.zoom.us/j/92425995029?pwd=ds00bMVC1MuUX80rLzoNNj82SXs3Mn.1).
 
+## Contact
+
+If you would like to support and contribute to the Open-CMSIS-Pack project, please contact us
+[here](mailto:open-cmsis-pack@linaro.org).

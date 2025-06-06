@@ -17,3 +17,9 @@ markdown_extensions:
   - attr_list
   - toc:
       title: On this page
+copyright: Copyright &copy; 2025 Arm Limited
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:open-cmsis-pack@linaro.org
+      name: Contact
