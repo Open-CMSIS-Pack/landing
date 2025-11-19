@@ -1,6 +1,6 @@
 # Resources
 
-For more information about the Open-CMSIS-Pack project, explore the links below
+For more information about the Open-CMSIS-Pack project, explore the links below:
 
 - [Open-CMSIS-Pack specification](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html)
 - [Open-CMSIS-Project page and meeting notes at Linaro](https://linaro.atlassian.net/wiki/spaces/CMSIS/overview)
@@ -19,3 +19,9 @@ For more information about the Open-CMSIS-Pack project, explore the links below
   [recording](https://linaro.atlassian.net/wiki/spaces/CMSIS/pages/29884907525/Open-CMSIS-Pack+Technical+Meeting+2025-03-04#Meeting-Recording),
   [presentation](https://linaro.atlassian.net/wiki/spaces/CMSIS/pages/29884907525/Open-CMSIS-Pack+Technical+Meeting+2025-03-04#Slides)
 - [embedded world 2025 CMSIS meeting presentation](https://www.open-cmsis-pack.org/assets/other/20250311_embedded_world_CMSIS_event.pdf)
+
+## Open-CMSIS-Pack Meetings
+
+We have stored the minutes, slides, and recordings from the weekly Open-CMSIS-Pack technical meetings.
+
+[**2025**](./meetings2025.md)

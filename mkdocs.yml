@@ -3,7 +3,9 @@ repo_name: GitHub
 repo_url: https://github.com/Open-CMSIS-Pack/landing
 nav:
   - Home: index.md
-  - Resources: resources.md
+  - Resources:
+    - General: resources.md
+    - Meetings 2025: meetings2025.md
   - Members: members.md
 theme:
   name: material
