@@ -3,10 +3,10 @@
 For more information about the Open-CMSIS-Pack project, explore the links below
 
 - [Open-CMSIS-Pack specification](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html)
-- [Open-CMSIS-Project page and meeting notes at Linaro](https://linaro.atlassian.net/wiki/spaces/CMSIS/overview)
+- [Open-CMSIS-Pack meeting notes and recordings](https://github.com/Open-CMSIS-Pack/landing/wiki/Open%E2%80%90CMSIS%E2%80%90Pack-Technical-Meeting)
 - [Announcement blog](https://www.linaro.org/blog/arm-transfers-cmsis-pack-technology-to-linaro/)
 - [List of publicly available CMSIS-Packs](https://www.keil.arm.com/packs/)
-- [List of supported devices](https://www.keil.arm.com/devicez/)
+- [List of supported devices](https://www.keil.arm.com/devices/)
 - [List of supported boards](https://www.keil.arm.com/boards/)
 - [CMSIS-Toolbox documentation](https://open-cmsis-pack.github.io/cmsis-toolbox/)
 - Create scalable software webinar:
