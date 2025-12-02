@@ -1,10 +1,10 @@
 site_name: Open-CMSIS-Pack
 repo_name: GitHub
 repo_url: https://github.com/Open-CMSIS-Pack/landing
+docs_dir: docs
 nav:
   - Home: index.md
   - Resources: resources.md
-  - Members: members.md
 theme:
   name: material
   logo: images/ARM2027_Open-CMSIS-Pack_Colour_V2.svg
@@ -21,5 +21,5 @@ copyright: Copyright &copy; 2025 Arm Limited
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:open-cmsis-pack@linaro.org
+      link: mailto:cmsis@arm.com
       name: Contact
