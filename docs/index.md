@@ -5,18 +5,17 @@
 ## Overview
 
 The Open-CMSIS-Pack project provides tools, methods, and infrastructure to integrate and manage software components and
-improve code reuse across embedded and IoT projects. The project is currently hosted and managed as an incubation
-project by Linaro in partnership with Arm, NXP and STMicroelectronics.
+improve code reuse across embedded and Edge AI projects.
 
-Software compatibility for component re-use has long been a challenge in the microcontroller space, especially for the
-IoT, which is much more diverse at the hardware level compared to PCs or the data center. Open-CMSIS-Pack removes this
-complexity, delivering a standard for software component packaging and related foundation tools for validation,
-distribution, integration, management, and maintenance.
+Software compatibility for component re-use has long been a challenge in the microcontroller space, which is much more
+diverse at the hardware level compared to PCs or the data center. Open-CMSIS-Pack removes this complexity, delivering a
+standard for software component packaging and related foundation tools for validation, distribution, integration,
+management, and maintenance.
 
 ## What are CMSIS-Packs?
 
 [CMSIS-Pack](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html) is a packaging technology
-that supports more than [11,000 microcontrollers](https://www.keil.arm.com/devices/). Packs provide a delivery
+that supports more than [12,000 microcontrollers](https://www.keil.arm.com/devices/). Packs provide a delivery
 mechanism for software components, device parameters, and evaluation board support. A software pack (file collection)
 includes:
 
@@ -52,5 +51,4 @@ If you want to get involved,
 
 ## Contact
 
-If you would like to support and contribute to the Open-CMSIS-Pack project, please contact us
-[here](mailto:open-cmsis-pack@linaro.org).
+If you would like to support and contribute to the Open-CMSIS-Pack project, please [contact us](mailto:cmsis@arm.com).
