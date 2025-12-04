@@ -25,6 +25,10 @@ For more information about the Open-CMSIS-Pack project, explore the links below.
 | Create consistent DFPs and BSPs webinar (part 1) | [Link](http://linaro.atlassian.net/wiki/spaces/CMSIS/pages/29847093264/Open-CMSIS-Pack+Technical+Meeting+2025-02-18#Meeting-Recording) | [Link](http://linaro.atlassian.net/wiki/spaces/CMSIS/pages/29847093264/Open-CMSIS-Pack+Technical+Meeting+2025-02-18#Slides) |
 | Create consistent DFPs and BSPs webinar (part 2) | [Link](https://linaro.atlassian.net/wiki/spaces/CMSIS/pages/29884907525/Open-CMSIS-Pack+Technical+Meeting+2025-03-04#Meeting-Recording) | [Link](https://linaro.atlassian.net/wiki/spaces/CMSIS/pages/29884907525/Open-CMSIS-Pack+Technical+Meeting+2025-03-04#Slides) |
 
+## Videos
+
+- [Using Copilot to generate a CMSIS-Driver VIO in three minutes](https://armkeil.blob.core.windows.net/developer/Files/videos/KeilStudio/20251204_UsingCopilot4VIO.mp4)
+
 ## Events
 
 - [embedded world 2025 CMSIS meeting presentation](https://www.open-cmsis-pack.org/assets/other/20250311_embedded_world_CMSIS_event.pdf)
