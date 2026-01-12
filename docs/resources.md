@@ -5,11 +5,11 @@ For more information about the Open-CMSIS-Pack project, explore the links below.
 ## Documentation and specification
 
 - [Open-CMSIS-Pack specification](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html)
-- [Open-CMSIS-Pack meeting notes and recordings](https://github.com/Open-CMSIS-Pack/landing/wiki/Open%E2%80%90CMSIS%E2%80%90Pack-Technical-Meeting)
+- [Open-CMSIS-Pack meeting notes and recordings](https://github.com/Open-CMSIS-Pack/landing/wiki/Open%E2%80%90CMSIS%E2%80%90Pack-Technical-Meetings)
 
 ## Project documents
 
-- [Open-CMSIS-Pack meeting notes and recordings](https://github.com/Open-CMSIS-Pack/landing/wiki/Open%E2%80%90CMSIS%E2%80%90Pack-Technical-Meeting)
+- [Open-CMSIS-Pack meeting notes and recordings](https://github.com/Open-CMSIS-Pack/landing/wiki/Open%E2%80%90CMSIS%E2%80%90Pack-Technical-Meetings)
 
 ## Discover CMSIS-Packs
 
