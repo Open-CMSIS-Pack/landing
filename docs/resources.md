@@ -31,4 +31,4 @@ For more information about the Open-CMSIS-Pack project, explore the links below.
 
 ## Events
 
-- [embedded world 2025 CMSIS meeting presentation](https://www.open-cmsis-pack.org/assets/other/20250311_embedded_world_CMSIS_event.pdf)
+- [embedded world 2025 CMSIS meeting presentation](https://armkeil.blob.core.windows.net/developer/Files/Open-CMSIS-Pack/2025/20250311_embedded_world_CMSIS_event.pdf)
