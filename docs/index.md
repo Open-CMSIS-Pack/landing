@@ -47,7 +47,7 @@ with software pack creation, maintenance, and distribution utilizing the CMSIS-P
 ## Get involved
 
 If you want to get involved,
-[join our Technical Project Meetings - Tuesdays 16:00 - 17:00 CET](https://linaro-org.zoom.us/j/92425995029?pwd=ds00bMVC1MuUX80rLzoNNj82SXs3Mn.1).
+[join our Technical Project Meetings - Tuesdays 16:00 - 17:00 CE(S)T](https://armltd.zoom.us/j/99077435534?pwd=1UutwknUtAJ9JEasdVF3zlMdGtz5PS.1).
 
 ## Contact
 
